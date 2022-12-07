@@ -1,0 +1,17 @@
+{
+  "name": "billsgetter-backend",
+  "version": "1.0.0",
+  "description": "Module that gets bills and transmit it to an interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clément D <clement.deryckx@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "puppeteer": "^19.4.0"
+  }
+}
